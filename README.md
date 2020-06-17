@@ -3,11 +3,11 @@
 具体介绍见：https://blog.csdn.net/qq_42800654/article/details/105934981
 
 **环境：**
-win10+python3.6
-PyTorch 1.1.0
-opencv
-tqdm
-matplotlib
+win10+python3.6  
+PyTorch 1.1.0  
+opencv  
+tqdm  
+matplotlib  
 
 -----------------------------
 打标签、数据准备、权重文件下载等详细过程见[说明](https://blog.csdn.net/qq_42800654/article/details/105934981)
